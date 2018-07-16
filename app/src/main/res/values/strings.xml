@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScrollPicker</string>
+
+    <string name="scroll_picker">滚动选择器</string>
+    <string name="hour">时</string>
+    <string name="minute">分</string>
+    <string name="confirm">确认</string>
+    <string name="cur_time">当前时间: %1$s : %2$s</string>
+</resources>
